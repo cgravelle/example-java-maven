@@ -1,5 +1,7 @@
 # [:] Example Maven Project
 
+[![Build Status](https://travis-ci.org/cgravelle/example-java-maven.svg?branch=master)](https://travis-ci.org/cgravelle/example-java-maven)
+
 An example maven project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
 ## Try me!
